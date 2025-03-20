@@ -78,7 +78,7 @@ Standard JSON API Response Format
 ### For Data Read Response
 ```
 {
-  "status" : success,
+  "status" : true,
   "status_code" : "SUCCESS",
   "message" : null,
   "data" :
